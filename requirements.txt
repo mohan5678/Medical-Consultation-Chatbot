@@ -1,0 +1,5 @@
+streamlit
+langgraph
+langchain-groq
+langchain
+typing_extensions # Recommended for 'Annotated' if using Python < 3.9
